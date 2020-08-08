@@ -1,0 +1,13 @@
+D:\CSharpConcepts\ImageEncrypted\ImageEncrypted\bin\Debug\netcoreapp3.1\ImageEncrypted.exe
+D:\CSharpConcepts\ImageEncrypted\ImageEncrypted\obj\Debug\netcoreapp3.1\ImageEncrypted.csprojAssemblyReference.cache
+D:\CSharpConcepts\ImageEncrypted\ImageEncrypted\obj\Debug\netcoreapp3.1\ImageEncrypted.AssemblyInfoInputs.cache
+D:\CSharpConcepts\ImageEncrypted\ImageEncrypted\obj\Debug\netcoreapp3.1\ImageEncrypted.AssemblyInfo.cs
+D:\CSharpConcepts\ImageEncrypted\ImageEncrypted\bin\Debug\netcoreapp3.1\ImageEncrypted.deps.json
+D:\CSharpConcepts\ImageEncrypted\ImageEncrypted\bin\Debug\netcoreapp3.1\ImageEncrypted.runtimeconfig.json
+D:\CSharpConcepts\ImageEncrypted\ImageEncrypted\bin\Debug\netcoreapp3.1\ImageEncrypted.runtimeconfig.dev.json
+D:\CSharpConcepts\ImageEncrypted\ImageEncrypted\bin\Debug\netcoreapp3.1\ImageEncrypted.dll
+D:\CSharpConcepts\ImageEncrypted\ImageEncrypted\bin\Debug\netcoreapp3.1\ImageEncrypted.pdb
+D:\CSharpConcepts\ImageEncrypted\ImageEncrypted\obj\Debug\netcoreapp3.1\ImageEncrypted.csproj.CoreCompileInputs.cache
+D:\CSharpConcepts\ImageEncrypted\ImageEncrypted\obj\Debug\netcoreapp3.1\ImageEncrypted.dll
+D:\CSharpConcepts\ImageEncrypted\ImageEncrypted\obj\Debug\netcoreapp3.1\ImageEncrypted.pdb
+D:\CSharpConcepts\ImageEncrypted\ImageEncrypted\obj\Debug\netcoreapp3.1\ImageEncrypted.genruntimeconfig.cache
