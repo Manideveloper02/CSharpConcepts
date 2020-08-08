@@ -1,0 +1,55 @@
+D:\C# Concepts\Caching\Caching\bin\Debug\netcoreapp3.1\Caching.deps.json
+D:\C# Concepts\Caching\Caching\bin\Debug\netcoreapp3.1\Caching.dll
+D:\C# Concepts\Caching\Caching\obj\Debug\netcoreapp3.1\Caching.csprojAssemblyReference.cache
+D:\C# Concepts\Caching\Caching\obj\Debug\netcoreapp3.1\Caching.AssemblyInfoInputs.cache
+D:\C# Concepts\Caching\Caching\obj\Debug\netcoreapp3.1\Caching.AssemblyInfo.cs
+D:\C# Concepts\Caching\Caching\bin\Debug\netcoreapp3.1\Caching.pdb
+D:\C# Concepts\Caching\Caching\obj\Debug\netcoreapp3.1\Caching.dll
+D:\C# Concepts\Caching\Caching\obj\Debug\netcoreapp3.1\Caching.pdb
+D:\C# Concepts\Caching\Caching\bin\Debug\netcoreapp3.1\Caching.exe
+D:\C# Concepts\Caching\Caching\bin\Debug\netcoreapp3.1\Caching.runtimeconfig.json
+D:\C# Concepts\Caching\Caching\bin\Debug\netcoreapp3.1\Caching.runtimeconfig.dev.json
+D:\C# Concepts\Caching\Caching\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\C# Concepts\Caching\Caching\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\C# Concepts\Caching\Caching\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\C# Concepts\Caching\Caching\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\C# Concepts\Caching\Caching\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\C# Concepts\Caching\Caching\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\C# Concepts\Caching\Caching\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\C# Concepts\Caching\Caching\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\C# Concepts\Caching\Caching\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\C# Concepts\Caching\Caching\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\C# Concepts\Caching\Caching\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\C# Concepts\Caching\Caching\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# Concepts\Caching\Caching\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\C# Concepts\Caching\Caching\obj\Debug\netcoreapp3.1\Caching.csproj.CopyComplete
+D:\C# Concepts\Caching\Caching\obj\Debug\netcoreapp3.1\Caching.genruntimeconfig.cache
+D:\C# Concepts\Caching\Caching\bin\Debug\netcoreapp3.1\Enyim.Caching.dll
+D:\C# Concepts\Caching\Caching\obj\Debug\netcoreapp3.1\Caching.csproj.CoreCompileInputs.cache
+D:\CSharpConcepts\Caching\Caching\bin\Debug\netcoreapp3.1\Caching.deps.json
+D:\CSharpConcepts\Caching\Caching\bin\Debug\netcoreapp3.1\Caching.dll
+D:\CSharpConcepts\Caching\Caching\bin\Debug\netcoreapp3.1\Caching.pdb
+D:\CSharpConcepts\Caching\Caching\obj\Debug\netcoreapp3.1\Caching.AssemblyInfoInputs.cache
+D:\CSharpConcepts\Caching\Caching\obj\Debug\netcoreapp3.1\Caching.AssemblyInfo.cs
+D:\CSharpConcepts\Caching\Caching\obj\Debug\netcoreapp3.1\Caching.dll
+D:\CSharpConcepts\Caching\Caching\obj\Debug\netcoreapp3.1\Caching.pdb
+D:\CSharpConcepts\Caching\Caching\bin\Debug\netcoreapp3.1\Caching.exe
+D:\CSharpConcepts\Caching\Caching\bin\Debug\netcoreapp3.1\Caching.runtimeconfig.json
+D:\CSharpConcepts\Caching\Caching\bin\Debug\netcoreapp3.1\Caching.runtimeconfig.dev.json
+D:\CSharpConcepts\Caching\Caching\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\CSharpConcepts\Caching\Caching\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\CSharpConcepts\Caching\Caching\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\CSharpConcepts\Caching\Caching\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\CSharpConcepts\Caching\Caching\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\CSharpConcepts\Caching\Caching\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\CSharpConcepts\Caching\Caching\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\CSharpConcepts\Caching\Caching\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\CSharpConcepts\Caching\Caching\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CSharpConcepts\Caching\Caching\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CSharpConcepts\Caching\Caching\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CSharpConcepts\Caching\Caching\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CSharpConcepts\Caching\Caching\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\CSharpConcepts\Caching\Caching\obj\Debug\netcoreapp3.1\Caching.csproj.CopyComplete
+D:\CSharpConcepts\Caching\Caching\obj\Debug\netcoreapp3.1\Caching.genruntimeconfig.cache
+D:\CSharpConcepts\Caching\Caching\obj\Debug\netcoreapp3.1\Caching.csprojAssemblyReference.cache
+D:\CSharpConcepts\Caching\Caching\obj\Debug\netcoreapp3.1\Caching.csproj.CoreCompileInputs.cache
