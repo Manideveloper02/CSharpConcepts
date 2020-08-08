@@ -1,0 +1,13 @@
+D:\C# Concepts\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.exe
+D:\C# Concepts\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.deps.json
+D:\C# Concepts\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.runtimeconfig.json
+D:\C# Concepts\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.runtimeconfig.dev.json
+D:\C# Concepts\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.dll
+D:\C# Concepts\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.pdb
+D:\C# Concepts\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.csprojAssemblyReference.cache
+D:\C# Concepts\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.AssemblyInfoInputs.cache
+D:\C# Concepts\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.AssemblyInfo.cs
+D:\C# Concepts\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.csproj.CoreCompileInputs.cache
+D:\C# Concepts\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.dll
+D:\C# Concepts\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.pdb
+D:\C# Concepts\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.genruntimeconfig.cache
